@@ -1,0 +1,13 @@
+H:\CatSportEnf\CatSportEnf\bin\Debug\netcoreapp3.1\CatSportEnf.exe
+H:\CatSportEnf\CatSportEnf\bin\Debug\netcoreapp3.1\CatSportEnf.deps.json
+H:\CatSportEnf\CatSportEnf\bin\Debug\netcoreapp3.1\CatSportEnf.runtimeconfig.json
+H:\CatSportEnf\CatSportEnf\bin\Debug\netcoreapp3.1\CatSportEnf.runtimeconfig.dev.json
+H:\CatSportEnf\CatSportEnf\bin\Debug\netcoreapp3.1\CatSportEnf.dll
+H:\CatSportEnf\CatSportEnf\bin\Debug\netcoreapp3.1\CatSportEnf.pdb
+H:\CatSportEnf\CatSportEnf\obj\Debug\netcoreapp3.1\CatSportEnf.csprojAssemblyReference.cache
+H:\CatSportEnf\CatSportEnf\obj\Debug\netcoreapp3.1\CatSportEnf.AssemblyInfoInputs.cache
+H:\CatSportEnf\CatSportEnf\obj\Debug\netcoreapp3.1\CatSportEnf.AssemblyInfo.cs
+H:\CatSportEnf\CatSportEnf\obj\Debug\netcoreapp3.1\CatSportEnf.csproj.CoreCompileInputs.cache
+H:\CatSportEnf\CatSportEnf\obj\Debug\netcoreapp3.1\CatSportEnf.dll
+H:\CatSportEnf\CatSportEnf\obj\Debug\netcoreapp3.1\CatSportEnf.pdb
+H:\CatSportEnf\CatSportEnf\obj\Debug\netcoreapp3.1\CatSportEnf.genruntimeconfig.cache

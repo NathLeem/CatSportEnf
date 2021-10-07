@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CatSportEnf/1.0.0": {
+        "runtime": {
+          "CatSportEnf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CatSportEnf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
